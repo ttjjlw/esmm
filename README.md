@@ -3,6 +3,7 @@
 # 二、脚本介绍  
 1、test.py 构造tfrecords数据，数据是我瞎造的，为了跑通并调试脚本。  
 2、esmm.py 训练esmm模型  
+3、numeric_column.py 练习tf.feature_column API和模型无关，不感兴趣，可忽略。
 # 三、脚本使用：  
 1、运行test.py构造data.tfrecord数据  
 2、运行esmm.py文件  
