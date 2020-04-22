@@ -16,6 +16,4 @@
 
 ## 后记
 
-- 欢迎关注我的知乎专栏：[算法工程师的自我修养](https://zhuanlan.zhihu.com/yangxudong)
-- 欢迎收藏我的个人博客，会不定期更新：[https://yangxudong.github.io](https://yangxudong.github.io)，
-或者国内镜像：[https://xudongyang.coding.me](https://xudongyang.coding.me)
+国内镜像：[https://xudongyang.coding.me](https://xudongyang.coding.me)
